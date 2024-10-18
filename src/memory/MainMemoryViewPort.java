@@ -75,6 +75,7 @@ public class MainMemoryViewPort extends javax.swing.JFrame {
                 
                MainMemoryViewPort menu= new MainMemoryViewPort();
                menu.setSize(640, 480);
+               menu.setVisible(true);
             }
         });
     }
